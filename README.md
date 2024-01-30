@@ -1,66 +1,13 @@
-## Foundry
+## Blur v2
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+Blend proxy          0x29469395eAf6f95920E59F858042f0e28D98a20B
+Blend                0xB258CA5559b11cD702F363796522b04D7722Ea56
+BlurExchange proxy   0x000000000000ad05ccc4f10045630fb830b95127
+BlurExchange         0x983e96c26782a8dB500a6FB8Ab47a52E1b44862D
+BlurExchangeV2 proxy 0xb2ecfE4E4D61f8790bbb9DE2D1259B9e2410CEA5
+BlurExchangeV2       0x5fa60726E62c50Af45Ff2F6280C468DA438A7837
+BlurPool proxy       0x0000000000A39bb272e79075ade125fd351887Ac
+BlurPool             0x01a656024de4B89e2D0198BF4D468E8fd2358b17
+BlurSwap             0x39da41747a83aee658334415666f3ef92dd0d541
+BlurToken            0x5283d291dbcf85356a21ba090e6db59121208b44
+Delegate             0x2f18F339620a63e43f0839Eeb18D7de1e1Be4DfB
