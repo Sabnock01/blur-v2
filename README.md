@@ -1,6 +1,6 @@
 ## Blur v2
 
-All contracts for Blur and Blend. Additional information can be found in the [Blur docs](https://docs.blur.foundation/).
+Blur has no public GitHub so this repo houses all contracts for Blur and Blend. Additional information can be found in the [Blur docs](https://docs.blur.foundation/).
 
 # Deployments
 <table>
